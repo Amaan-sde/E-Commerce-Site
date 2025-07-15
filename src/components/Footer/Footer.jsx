@@ -1,6 +1,4 @@
 import React from "react";
-// import footerLogo from "../../assets/logo.png";
-// import Banner from "../../assets/website/footer-pattern.jpg";
 import { FiShoppingBag } from "react-icons/fi";
 import { FaMapLocationDot } from "react-icons/fa6";
 import {
@@ -11,15 +9,6 @@ import {
   FaMobileAlt,
 } from "react-icons/fa";
 import { IoCall } from "react-icons/io5";
-
-// const BannerImg = {
-//   backgroundImage: `url(${Banner})`,
-//   backgroundPosition: "bottom",
-//   backgroundRepeat: "no-repeat",
-//   backgroundSize: "cover",
-//   height: "100%",
-//   width: "100%",
-// };
 
 const FooterLinks = [
   {
@@ -100,7 +89,7 @@ const Footer = () => {
             <div>
               <div className="flex items-center gap-3 mt-6">
                 <a href="#">
-                  <FaInstagram className="text-3xl" />
+                  <FaInstagram className="text-[3.1xl]" />
                 </a>
                 <a href="#">
                   <FaFacebook className="text-3xl" />
