@@ -4,27 +4,27 @@ import Slider from "react-slick";
 const TestimonialData = [
   {
     id: 1,
-    name: "Victor",
+    name: "AB De Villiers",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/101/101",
+    img: "https://images.unsplash.com/photo-1500964757637-c85e8a162699?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVhdXRpZnVsfGVufDB8fDB8fHww",
   },
   {
     id: 2,
     name: "Satya Nadella",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/102/102",
+    img: "https://images.unsplash.com/photo-1501493870936-9c2e41625521?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJlYXV0aWZ1bHxlbnwwfHwwfHx8MA%3D%3D",
   },
   {
     id: 3,
     name: "Virat Kohli",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/104/104",
+    img: "https://media.istockphoto.com/id/506062202/photo/houses-of-parliament-at-night-westminster-london-uk.webp?a=1&b=1&s=612x612&w=0&k=20&c=WCIJ0vTd-hfi43u4vr4sG5rvG5kLQ7GKkz6NaZQ-6A8=",
   },
   {
     id: 5,
     name: "Sachin Tendulkar",
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
-    img: "https://picsum.photos/103/103",
+    img: "https://images.unsplash.com/photo-1519852476561-ec618b0183ba?q=80&w=1156&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
 ];
 
