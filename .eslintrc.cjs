@@ -5,7 +5,12 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:react/jsx-runtime',
+    'plugin:jsx-a11y/recommended',
+    'plugin:import/errors',
     'plugin:react-hooks/recommended',
+    'plugin:react-refresh/recommended',
+    'plugin:tailwindcss/recommended',
+    'plugin:prettier/recommended',
   ],
   ignorePatterns: ['dist', '.eslintrc.cjs'],
   parserOptions: { ecmaVersion: 'latest', sourceType: 'module' },
@@ -15,6 +20,7 @@ module.exports = {
     'react-refresh/only-export-components': [
       'warn',
       { allowConstantExport: true },
+
     ],
   },
 }
